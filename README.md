@@ -1,1 +1,1 @@
-# Pricing
+# Dynamic Pricing
