@@ -10,3 +10,5 @@ A game company gave gift coins to its users for purchasing items in a game. Usin
 4. Simulate item purchases and income for possible price changes.
  
  -----------------------------------
+
+You can access the project on Kaggle:
