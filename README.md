@@ -11,4 +11,4 @@ A game company gave gift coins to its users for purchasing items in a game. Usin
  
  -----------------------------------
 
-* You can access the project on Kaggle:
+* You can access the project on Kaggle: https://www.kaggle.com/mesudepolat/dynamic-pricing-ab-test
