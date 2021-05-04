@@ -9,6 +9,5 @@ A game company gave gift coins to its users for purchasing items in a game. Usin
 3. It is desirable to be flexible in terms of price. Create a decision support system for the price strategy.
 4. Simulate item purchases and income for possible price changes.
  
---------------------------- -----------------------------------
 
 * You can access the project on Kaggle: https://www.kaggle.com/mesudepolat/dynamic-pricing-ab-test
