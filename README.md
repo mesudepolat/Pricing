@@ -5,6 +5,6 @@ A game company gave gift coins to its users for purchasing items in a game. Usin
 ## Problems to be solved
 
 1. Does the price of the item differ by category? Express it statistically.
-* Depending on the first question, what should the item cost? Explain why?
-It is desirable to be flexible in terms of price. Create a decision support system for the price strategy.
-Simulate item purchases and income for possible price changes.
+2. Depending on the first question, what should the item cost? Explain why?
+3. It is desirable to be flexible in terms of price. Create a decision support system for the price strategy.
+4. Simulate item purchases and income for possible price changes.
